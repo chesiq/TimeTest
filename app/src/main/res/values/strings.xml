@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UranTestApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_change_background">Change background</string>
+    <string name="action_load_test_data">Load test data</string>
+
+    <string name="label_received_data">(Received data)</string>
+    <string name="label_previous_data">Previous data:</string>
+</resources>
